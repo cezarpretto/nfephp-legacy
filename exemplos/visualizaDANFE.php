@@ -1,5 +1,5 @@
 <?php
-$nfe = $_GET['idNfe'];
+$nfe = $_GET['idNFe'];
 $mod = $_GET['mod'];
 
 if($mod === '55'){
